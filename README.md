@@ -58,7 +58,7 @@ Authors
 
 # Acknowledgements
 
-Anshuman Rai - Coder,Game Developer,Game Designer , Game Editor. 
+Anshuman Rai - Programmer,Game Developer,Game Designer , Game Editor. 
 Hemanshu Ray - Content Writer,Game Editor,Content Designer.
 
 # Features
