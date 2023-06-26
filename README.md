@@ -80,15 +80,6 @@ Elements used in the development of this game?
 Answer 2:
 The game is developed on Unity,language used is C#,photoshop and blender used for creating game objects,Story part is created on canva.
 
-Contributing
-Contributions are always welcome!
-
-See contributing.md for ways to get started.
-
-Please adhere to this project's code of conduct.
-
-
-
 ## More details
 https://www.canva.com/design/DAFlzjYKfxA/tqLqwzM0gtTTO1lzOOIiHg/view?utm_content=DAFlzjYKfxA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
