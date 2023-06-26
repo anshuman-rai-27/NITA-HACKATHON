@@ -48,7 +48,43 @@ PHOTOSHOP
 
 C#
 
+light of fate
 
+A brief description of what this project does and who it's for
+
+Authors
+1)https://github.com/hemanshu1729
+2)https://github.com/anshuman-rai-27
+Acknowledgements
+
+Anshuman Rai - coder,game developer,game designer. 
+Hemanshu Ray - Content writer,game editor,content designer.
+
+Features
+Light/dark mode toggle
+Live previews
+Fullscreen mode
+Runs on pc suitable with Windows,Linux.
+
+FAQ
+Question 1:
+How the game works?
+
+Answer 1:
+The game works on simple movement keys w-up,s-down,d-right,a-left for moving the character.
+
+Question 2:
+Elements used in the development of this game?
+
+Answer 2:
+The game is developed on Unity,language used is C#,photoshop and blender used for creating game objects,Story part is created on canva.
+
+Contributing
+Contributions are always welcome!
+
+See contributing.md for ways to get started.
+
+Please adhere to this project's code of conduct.
 
 
 
@@ -60,5 +96,6 @@ or
 https://www.canva.com/design/DAFmwcHowU4/sEn43DDU0JcNf6_7OC565w/view?utm_content=DAFmwcHowU4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 ## Support
 
-For any query, email anshumanrishi27@gmail.com.
-
+For any query, 
+email: anshumanrishi27@gmail.com 
+    : hemanshu1729@gmail.com
