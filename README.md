@@ -39,6 +39,10 @@ The battle that ensued was fierce and terrifying. Our hero struggled to avoid th
 
 The movement of the player is simply controlled by movement keys or W,S,A,D.
 
+# Try the game
+
+>https://flightoffate.anshumanrai2.repl.co
+
 # Softwares used
 
 UNITY &
