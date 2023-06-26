@@ -1,6 +1,6 @@
 
 # FLIGHT OF FATE
-                -Embrace Wings, Conquer Avian Trials
+    -Embrace Wings, Conquer Avian Trials
 
 Presented By - TEAM CLOWN PIRATE
 >Welcome to a captivating game where you can embark on a mesmerizing journey as a bird, delving into a world filled with enchantment and perils. In this uniquely crafted experience, you will immerse yourself in the life of a winged creature, witnessing firsthand the daunting challenges they encounter in a world seemingly cursed for their kind. Prepare to soar through an intricately designed environment, confronting a multitude of obstacles and adversities that plague our avian companions. Through this extraordinary game, you will gain profound insight into the trials and tribulations faced by birds, illuminating the beauty and fragility of their existence in this mystifying realm.
@@ -48,25 +48,26 @@ PHOTOSHOP
 
 C#
 
-light of fate
+# Light Of Fate
 
 A brief description of what this project does and who it's for
 
 Authors
 1)https://github.com/hemanshu1729
 2)https://github.com/anshuman-rai-27
-Acknowledgements
 
-Anshuman Rai - coder,game developer,game designer. 
-Hemanshu Ray - Content writer,game editor,content designer.
+# Acknowledgements
 
-Features
+Anshuman Rai - Coder,Game Developer,Game Designer , Game Editor. 
+Hemanshu Ray - Content Writer,Game Editor,Content Designer.
+
+# Features
 Light/dark mode toggle
 Live previews
 Fullscreen mode
 Runs on pc suitable with Windows,Linux.
 
-FAQ
+# FAQ
 Question 1:
 How the game works?
 
