@@ -37,7 +37,7 @@ The battle that ensued was fierce and terrifying. Our hero struggled to avoid th
 
 # Controls
 
-The movement of the player is simply controlled by movement keys or W,S,A,D.
+The movement of the player is simply controlled by W,S,A,D.
 
 # Try the game
 
