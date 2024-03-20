@@ -41,7 +41,7 @@ The movement of the player is simply controlled by W,S,A,D.
 
 # Try the game
 
->https://flightoffate.anshumanrai2.repl.co
+>https://playable-ecru.vercel.app/
 
 # Softwares used
 
