@@ -43,6 +43,10 @@ The movement of the player is simply controlled by W,S,A,D.
 
 >https://playable-ecru.vercel.app/
 
+# Game shots
+![Uploading game.png…]()
+
+
 # Softwares used
 
 UNITY &
